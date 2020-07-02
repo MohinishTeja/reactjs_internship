@@ -1,0 +1,20 @@
+.b{
+    width: 20rem;
+    border: 1px solid #9a9a9a;
+    text-align: center;
+    border-radius: 15px;
+    line-height: 25px;
+    box-shadow: 0px 8px 8px -8px #000;
+}
+
+
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.c{
+    width: 50%;
+}
